@@ -10,5 +10,6 @@ package com.icbc.algorithms;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("学习GIT 测试用");
+        System.out.println("提交到MAIN分支");
     }
 }
