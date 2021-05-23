@@ -13,6 +13,6 @@ public class TestGit {
         System.out.println("提交到MAIN分支");
         System.out.println("测试DEV分支");
         System.out.println("测试MAIN分支修改文件");
-        System.out.println("测试DEV分支修改代码");
+        System.out.println("测试:DEV分支修改代码");
     }
 }
